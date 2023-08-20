@@ -1,0 +1,26 @@
+.container__title {
+  text-align: center;
+  color: white;
+
+}
+
+.container__title h1 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 120px;
+  display: flex;
+  justify-content: center;
+  font-weight: bolder;
+}
+
+.container__title hr {
+
+  margin-bottom: 5px;
+}
+
+.container__title > h1 > span {
+  color: rgb(249, 229, 5);
+  font-family:cursive;
+}
+
